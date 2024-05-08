@@ -1,5 +1,18 @@
 <resources>
     <string name="app_name">Pokemon</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_text">Что-то пошло не так... Попробуйте позже</string>
+    <string name="retry">RETRY</string>
+    <string name="back">Назад</string>
+    <string name="prev">Предыдущие</string>
+    <string name="next">Следующие</string>
+    <string name="image1">image1</string>
+    <string name="image2">image2</string>
+    <string name="image3">image3</string>
+    <string name="image4">image4</string>
+    <string name="pokemons">Покемоны</string>
+    <string name="id_str">"ID: %1$s"</string>
+    <string name="weight_str">"Weight: %1$s"</string>
+    <string name="exp_str">"Experience: %1$s"</string>
+    <string name="default_str">"Default: %1$s"</string>
+    <string name="height_str">"Height: %1$s"</string>
 </resources>
